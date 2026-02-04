@@ -12,3 +12,6 @@ Inflation isn’t just a number — it’s a story that unfolds over time. I bui
 
 ## Key_Insight
 ![Regions](Key_Insight.png)
+
+## Live Interactive Dashboard
+👉 [View interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWI0OTQ4YjktMTQxZi00ZTc3LTlkMmMtYWVjZjA5ZDdjMDdiIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
