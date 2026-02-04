@@ -9,3 +9,6 @@ Inflation isn’t just a number — it’s a story that unfolds over time. I bui
 
 ## Regional Map
 ![Regions](Map.png)
+
+## Key_Insight
+![Regions](Key_Insight.png)
